@@ -688,7 +688,7 @@ body,button {
 .page-10 {
 	background:url(img/iali22_bg.jpg)
 }
-.page-12 {
+/* .page-12 {
 	background-color:#aff1ff;
 	padding:0
 }
@@ -702,7 +702,7 @@ body,button {
 .page-12 h3 {
 	margin-left:1em;
 	margin-right:1em
-}
+} */
 .page-13 {
 	background-color:#feeff4;
 	padding:0
@@ -719,9 +719,9 @@ body,button {
 .page-15 {
 	background:#dcf2fa url(img/iali45_bg.jpg)
 }
-.page-16 {
+/* .page-16 {
 	background-color:#7db6df
-}
+} */
 .page-17 {
 	background-color:#e5f0f2
 }
